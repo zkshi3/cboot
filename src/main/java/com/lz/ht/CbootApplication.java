@@ -20,6 +20,7 @@ public class  CbootApplication {
         System.out.println("---------------master-fix-----------------");
         System.out.println("---------------master-push-----------------");
         System.out.println("---------------master-pull-----------------");
+        System.out.println("---------------github-update-----------------");
         SpringApplication.run( CbootApplication.class, args);
         System.out.println("---------------end-----------------");
     }
