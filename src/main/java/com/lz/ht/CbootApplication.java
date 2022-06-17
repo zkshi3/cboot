@@ -18,6 +18,7 @@ public class  CbootApplication {
         System.out.println("---------------hot-fix2-----------------");
         System.out.println("---------------hot-fix-----------------");
         System.out.println("---------------master-fix-----------------");
+        System.out.println("---------------master-push-----------------");
         SpringApplication.run( CbootApplication.class, args);
         System.out.println("---------------end-----------------");
     }
