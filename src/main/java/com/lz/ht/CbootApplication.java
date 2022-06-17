@@ -15,6 +15,7 @@ public class  CbootApplication {
 
     public static void main(String[] args) {
         System.out.println("---------------start-----------------");
+        System.out.println("---------------hot-fix-----------------");
         SpringApplication.run( CbootApplication.class, args);
         System.out.println("---------------end-----------------");
     }
